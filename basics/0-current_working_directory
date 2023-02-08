@@ -1,6 +1,1 @@
-#!/bin/bash
-DIR_PATH = $ (cd $ (dirname" ${BASH_SOURCE:-$0} ) )
-path = $DIR_PATH / $ ( basename "${BASH_SOURCE:-$0}")
-echo "le chemin absolu est" $path
-
-echo "le chemin du répertoir est" $DIR_PATH
+pwd
