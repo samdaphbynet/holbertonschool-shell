@@ -5,8 +5,8 @@
 - [3-listfiles](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/3-listfiles) - Display current directory contents in a long format. <br/>
 - [4-listmorefiles](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/4-listmorefiles) - Display current directory contents, including hidden files. <br/>
 - [5-listfilesdigitonly](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/5-listfilesdigitonly) - Display current directory contents. => Long format
-                                         with user and group IDs displayed numerically
-                                         And hidden files (starting with .). <br/>
+ with user and group IDs displayed numerically
+ And hidden files. <br/>
 - [6-firstdirectory](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/6-firstdirectory) - Create a script that creates a directory named my_first_directory in the /tmp/ directory.<br/>
 - [7-movethatfile](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/7-movethatfile) - Move the file betty from /tmp/ to /tmp/my_first_directory.<br/>
 -[8-firstdelete](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/8-firstdelete) - Delete the file betty => The file betty is in /tmp/my_first_directory. <br/>
