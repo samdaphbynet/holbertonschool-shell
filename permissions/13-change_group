@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp school /var/holbertonschool-shell/permissions
+chgrp school permissions
