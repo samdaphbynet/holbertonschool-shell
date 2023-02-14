@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R '*.git'   
+find . '*.git'   
