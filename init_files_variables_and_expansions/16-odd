@@ -1,2 +1,2 @@
 #!/bin/bash
-x=0 | echo (($x++)) | ls -1
+paste - - | cut -f1
