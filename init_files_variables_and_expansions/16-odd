@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR%2==1'
+x=0 | echo (($x++)) | ls -1
