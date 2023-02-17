@@ -17,3 +17,7 @@
 
 
 - [13-symbolic_link](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/13-symbolic_link) -  Symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.<br/>
+- [14-copy_html](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/14-copy_html) - copies all the HTML files from the current working directory to the parent of the working directory, consider that all HTML files have the extension .html<br/>
+- [15-lets_move](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/15-lets_move) - moves all files beginning with an uppercase letter to the directory /tmp/u.<br/>
+- [16-clean_emacs](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/16-clean_emacs) - deletes all files in the current working directory that end with the character `~`.<br/>
+- [17-tree](https://github.com/samdaphbynet/holbertonschool-shell/blob/master/basics/17-tree) - creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.<br/>
